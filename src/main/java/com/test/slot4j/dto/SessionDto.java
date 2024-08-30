@@ -11,4 +11,5 @@ public class SessionDto {
     private UUID sessionId;
     private long userId;
     private GameStateDto gameStateDto;
+    private String gameId;
 }
